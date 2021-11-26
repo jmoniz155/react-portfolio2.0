@@ -1,17 +1,11 @@
+# react-portfolio2.0
 
 ## Description
-```
 
+This is my React Portfolio, where I show off my skills. You can learn about me and check out the projects I've been working on.
 
-![]()
+![example]("./react-img.jpg")
 
----
-
-## Function
-
-.
-
----
 
 ## Table of Contents
 
@@ -28,25 +22,27 @@
 ---
 ## Study-Material
 
-[Mongodb](https://www.mongodb.com/)
+[React](https://reactjs.org/)
 
-[Mongodb Methods](https://docs.mongodb.com/mongodb-shell/reference/methods/)
+[create-react-app](https://create-react-app.dev/docs/measuring-performance/)
 
-[Mongoose](https://mongoosejs.com/docs/5.x/docs/models.html)
+[web-vitals](https://web.dev/vitals/)
 
-[Express](https://expressjs.com/en/starter/hello-world.html)
+[react-dom](https://reactjs.org/docs/react-dom.html)
 
-[Cache](https://web.dev/offline-cookbook/#cache-falling-back-to-network)
+[gh-pages](https://www.npmjs.com/package/gh-pages)
 
-[Mozilla Web Manifest](https://developer.mozilla.org/en-US/docs/Web/Manifest)
-
-[Mozilla Service Worker](https://developer.mozilla.org/en-US/docs/Web/API/ServiceWorker)
+[react-bootstrap](https://react-bootstrap.github.io/)
 
 ---
 
+## Credits
+
+Id like to give credit to my varsity tutor for taking the time to help me understand React.
+
 ## Features
 
-This app was built using HTML 3, CSS 6, Javascript, Express, Mongoose, Web Manifest, Service Worker, Cache and Progressive Web Application
+This app was built using HTML5, CSS3, Javascript, Node.js, React, react-bootstrap, gh-pages, react-dom, react-scripts and web-vitals.
 
 ---
 
@@ -54,7 +50,7 @@ This app was built using HTML 3, CSS 6, Javascript, Express, Mongoose, Web Manif
 
 [GitHub Repository](https://github.com/jmoniz155/react-portfolio2.0)
 
-[Heroku Deployed App](https://jmoniz155.github.io/react-portfolio2.0/)
+[Live](https://jmoniz155.github.io/react-portfolio2.0/)
 
 ---
 ---
