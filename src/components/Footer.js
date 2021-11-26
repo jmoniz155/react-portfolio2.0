@@ -1,6 +1,5 @@
 /* eslint-disable jsx-a11y/anchor-has-content */
 import React from "react";
-import { Row } from "react-bootstrap";
 import "./styles/style.css";
 
 function Footer() {
@@ -8,7 +7,7 @@ function Footer() {
     <footer sticky="bottom">
       <div className="footer">
         <ul className="navbar-nav list-inline footNav">
-          <li className="nav-item footerTitle" style={{ fontSize: 25 }}>
+          <li className="nav-item footerTitle" style={{ color: 'black', fontSize: 25 }}>
             Find me on:
             <h1 className="d-flex justify-content-around footerBottom">
               <a
