@@ -49,14 +49,7 @@ const About = () => (
       <div className="col-md-5">
         <section>
           <p style={{ textAlign: "center", marginTop: 50, marginRight: 50 }}>
-            A full stack developer with fifteen years experience in education
-            and a background in the arts, ready to deploy strong communication
-            skills and a creative thought process to the development cycle.
-            Offering five years experience as a detail-oriented small business
-            owner dedicated to sustainable customer and peer relationship
-            growth. Experienced in MERN stack. Self-directed and enthusiastic
-            learner with superior design and analytical skills prepared to join
-            a collaborative, innovative team environment.
+           A student attending full time bootcamp at UCSD. Graduating Dec. 7, 2021
           </p>
         </section>
       </div>

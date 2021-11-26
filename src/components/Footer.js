@@ -8,7 +8,7 @@ function Footer() {
     <footer sticky="bottom">
       <div className="footer">
         <ul className="navbar-nav list-inline footNav">
-          <li className="nav-item" style={{ fontSize: 25 }}>
+          <li className="nav-item footerTitle" style={{ fontSize: 25 }}>
             Find me on:
             <h1 className="d-flex justify-content-around footerBottom">
               <a

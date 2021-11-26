@@ -37,7 +37,9 @@
   }
 }
 
-
+.footerTitle {
+  color: black;
+}
 
 img::-moz-selection{
   color:#fff;
