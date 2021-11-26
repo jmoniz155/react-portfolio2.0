@@ -4,7 +4,7 @@
 
 This is my React Portfolio, where I show off my skills. You can learn about me and check out the projects I've been working on.
 
-![example]("https://raw.githubusercontent.com/jmoniz155/react-portfolio2.0/main/src/components/pages/react-img.jpg")
+![example](https://raw.githubusercontent.com/jmoniz155/react-portfolio2.0/main/src/components/pages/react-img.jpg)
 
 
 ## Table of Contents
